@@ -1,0 +1,11 @@
+{
+  "name": "Confluence",
+  "controls": [
+    {
+      "name" : "Menu BarItems",
+      "constraints": [{ name: "ClassName", value: "acs-nav-item-link" } ],
+      "defaultids": [ "Tag", "ClassName", "Title"]
+    },
+  
+  ]
+}
