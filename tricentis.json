@@ -1,0 +1,21 @@
+{
+  "name": "Tricentis",
+  "controls": [
+    {
+      "name" : "Menu BarItems",
+      "constraints": [{ name: "ClassName", value: "acs-nav-item-link" } ],
+      "defaultids": [ "Tag", "ClassName", "Title"]
+    },
+	  {
+      "name" : "Feature Link",
+      "constraints": [{ name: "ClassName", value: "fxs-home-feature-link" } ],
+      "defaultids": [ "Tag", "ClassName", "Title"]
+    },
+    {
+      "name" : "TopBar Button",
+      "constraints": [{ name: "ClassName", value: "fxs-topbar-button" } ],
+      "defaultids": [ "Tag", "ClassName", "Title"]
+    }
+  
+  ]
+}
