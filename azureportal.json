@@ -3,17 +3,17 @@
   "controls": [
     {
       "name" : "Menu Link",
-      "constraints": [{ name: "ClassName", value: "fxs-sidebar-item-link" } ],
+      "constraints": [{ "name": "ClassName", "value": "fxs-sidebar-item-link" } ],
       "defaultids": [ "Tag", "ClassName", "Title"]
     },
     {
       "name" : "Feature Link",
-      "constraints": [{ name: "ClassName", value: "fxs-home-feature-link" } ],
+      "constraints": [{ "name": "ClassName", "value": "fxs-home-feature-link" } ],
       "defaultids": [ "Tag", "ClassName", "Title"]
     },
     {
       "name" : "TopBar Button",
-      "constraints": [{ name: "ClassName", value: "fxs-topbar-button" } ],
+      "constraints": [{ "name": "ClassName", "value": "fxs-topbar-button" } ],
       "defaultids": [ "Tag", "ClassName", "Title"]
     }
   ]
